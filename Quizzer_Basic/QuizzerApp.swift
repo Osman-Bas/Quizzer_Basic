@@ -1,14 +1,14 @@
 //
-//  Quizzer_BasicApp.swift
-//  Quizzer_Basic
+//  QuizzerApp.swift
+//  Quizzer
 //
-//  Created by Osman Baş on 25.05.2025.
+//  Created by Osman Baş on 24.05.2025.
 //
 
 import SwiftUI
 
 @main
-struct Quizzer_BasicApp: App {
+struct QuizzerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

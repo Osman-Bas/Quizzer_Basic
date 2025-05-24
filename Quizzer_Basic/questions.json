@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "Dünya'nın en büyük okyanusu hangisidir?",
+    "options": ["Atlantik", "Hint", "Arktik", "Pasifik"],
+    "correctAnswerIndex": 3,
+    "timeLimit": 10
+  },
+  {
+    "id": 2,
+    "question": "Işığın boşluktaki hızı yaklaşık olarak kaç km/saniyedir?",
+    "options": ["150.000", "300.000", "450.000", "600.000"],
+    "correctAnswerIndex": 1,
+    "timeLimit": 10
+  },
+  {
+    "id": 3,
+    "question": "Bir yılda kaç gün vardır (artık yıl hariç)?",
+    "options": ["365", "366", "364", "360"],
+    "correctAnswerIndex": 0,
+    "timeLimit": 10
+  },
+  {
+    "id": 4,
+    "question": "Türkiye'nin başkenti neresidir?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "correctAnswerIndex": 1,
+    "timeLimit": 10
+  },
+  {
+    "id": 5,
+    "question": "Güneş sistemindeki en büyük gezegen hangisidir?",
+    "options": ["Mars", "Jüpiter", "Dünya", "Satürn"],
+    "correctAnswerIndex": 1,
+    "timeLimit": 10
+  }
+]
