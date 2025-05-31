@@ -5,13 +5,13 @@ Quizzer, SwiftUI kullanılarak geliştirilmiş bir iOS quiz uygulamasıdır. Kul
 
 ## ✨ Özellikler
 
-* 📋 JSON'dan yüklenen sorular
-* ⏱ Her soru için ayrı süre (10 saniye vb.)
-* ⌛ Toplam sınav süre kontrolü (30 saniye vb.)
-* ✅ Cevap seçildiğinde otomatik olarak bir sonraki soruya geçiş
-* 📏 Skorlar UserDefaults ile kaydedilir
-* 📊 Ana ekranda geçmiş skorlar listelenir
-* 🗑 Geçmişi temizleme seçeneği
+* 📋 JSON'dan yüklenen sorular.
+* ⏱ Her soru için ayrı süre (10 saniye vb.).
+* ⌛ Toplam sınav süre kontrolü (30 saniye vb.).
+* ✅ Cevap seçildiğinde otomatik olarak bir sonraki soruya geçiş.
+* 📏 Skorlar UserDefaults ile kaydedilir.
+* 📊 Ana ekranda geçmiş skorlar listelenir.
+* 🗑 Geçmişi temizleme seçeneği.
 
 
 ## 🚀 Kurulum
